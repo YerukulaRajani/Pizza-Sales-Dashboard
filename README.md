@@ -1,14 +1,14 @@
 
 # Pizza-Sales-Dashboard
 
-## 📌 Overview
+##  Overview
 This project is an interactive **Pizza Sales Dashboard** created in **Tableau** to analyze and visualize pizza sales performance.  
 It provides detailed insights into revenue, order trends, category performance, and best/worst-selling pizzas.  
 The goal is to help businesses make data-driven decisions for sales optimization.
+##Dataset used
+- <a href="https://github.com/YerukulaRajani/Pizza-Sales-Dashboard/blob/main/pizza_sales.csv">Dataset</a>
 
----
-
-## 📊 Key Insights from the Dashboard
+##  Key Insights from the Dashboard
 - **Total Revenue:** $817.9K  
 - **Average Order Value:** $38.31  
 - **Total Pizzas Sold:** 49.6K  
@@ -17,7 +17,7 @@ The goal is to help businesses make data-driven decisions for sales optimization
 
 ---
 
-## 🔍 Features
+##  Features
 1. **Busiest Hours & Weeks**
    - Peak order times: **12 PM – 1 PM** and **4 PM – 7 PM**
    - Highest orders during the **48th week of December**

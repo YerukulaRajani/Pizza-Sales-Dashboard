@@ -15,7 +15,6 @@ The goal is to help businesses make data-driven decisions for sales optimization
 - **Total Orders:** 21.4K  
 - **Average Pizzas per Order:** 2.32  
 
----
 
 ##  Features
 1. **Busiest Hours & Weeks**
@@ -34,4 +33,9 @@ The goal is to help businesses make data-driven decisions for sales optimization
    - Hourly and weekly order trends
    - Sales distribution by category and size
 
----
+##  Dashboard Preview
+1.    **Pizza Sales Overview**
+      <img width="1300" height="740" alt="Home" src="https://github.com/user-attachments/assets/233fc761-c2c7-4adf-b471-8bff5fb60331" />
+2,    **Best & Worst Sellers**
+      <img width="1300" height="740" alt="BestWorst Sellers" src="https://github.com/user-attachments/assets/ba80216e-89a8-4269-83af-947c8a930a98" />
+
